@@ -1,4 +1,4 @@
-# expenses
+# Expenses APP
 
 I developed this project for the purpose of studying the flutter language. This project is an expense manager. Where the user can enter what was spent in the day, thus accounting the expense for each day in the CHART that is displayed at the top of the application. Right below I will leave some examples of the screens that were created. It is a simple application but it uses a lot of flutter functionality.
 
