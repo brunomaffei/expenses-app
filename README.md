@@ -1,16 +1,16 @@
 # expenses
 
-A new Flutter project.
+I developed this project for the purpose of studying the flutter language. This project is an expense manager. Where the user can enter what was spent in the day, thus accounting the expense for each day in the CHART that is displayed at the top of the application. Right below I will leave some examples of the screens that were created. It is a simple application but it uses a lot of flutter functionality.
 
-## Getting Started
+I hope you like it and studying is never too much.
+GO FLUTTER
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+# What I used to make it.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- FLUTTER
+- Dart
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Screens
+![FotoJet](https://user-images.githubusercontent.com/47982525/117551878-b3623f80-b01e-11eb-988d-67015ad4a553.jpg)
