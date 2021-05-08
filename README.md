@@ -11,6 +11,10 @@ GO FLUTTER
 - FLUTTER
 - Dart
 
+## Functions
+- ADD
+- Delete
+
 
 ## Screens
 ![FotoJet (1)](https://user-images.githubusercontent.com/47982525/117551970-21a70200-b01f-11eb-8a07-980b866c08eb.jpg)
