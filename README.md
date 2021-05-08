@@ -13,4 +13,5 @@ GO FLUTTER
 
 
 ## Screens
-![FotoJet](https://user-images.githubusercontent.com/47982525/117551878-b3623f80-b01e-11eb-988d-67015ad4a553.jpg)
+![FotoJet (1)](https://user-images.githubusercontent.com/47982525/117551970-21a70200-b01f-11eb-8a07-980b866c08eb.jpg)
+
